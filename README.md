@@ -369,17 +369,10 @@ Developing practical engineering skills through academic learning, AI-focused pr
 
 ---
 
-## 10. GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Haric&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub profile trophies"/>
-
-</div>
 
 ---
 
-## 11. Contribution Activity
+## 10. Contribution Activity
 
 <div align="center">
 
@@ -391,17 +384,9 @@ Developing practical engineering skills through academic learning, AI-focused pr
 
 ---
 
-## 12. Contribution Snake
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Haric/Haric/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## 13. Current Focus
+## 11. Current Focus
 
 ```yaml
 profile:
