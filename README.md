@@ -306,7 +306,7 @@ Developing practical engineering skills through academic learning, AI-focused pr
 
 <div align="center">
 
-<a href="https://github.com/haricbravlin7/Haric/blob/main/certificates/Programming-In-Java-NPTEL.pdf">
+<a href="https://github.com/haricbravlin7/Haric/blob/main/Programming%20In%20Java.pdf">
   <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-312E81?style=for-the-badge&logo=java&logoColor=white" alt="View NPTEL Programming in Java certificate"/>
 </a>
 
@@ -318,7 +318,7 @@ Developing practical engineering skills through academic learning, AI-focused pr
 | **Session** | July–October 2025 |
 | **Duration** | 12 weeks |
 | **Score** | 81% |
-| **Certificate** | [View Certificate (PDF)](https://github.com/haricbravlin7/Haric/blob/main/certificates/Programming-In-Java-NPTEL.pdf) |
+| **Certificate** | [View Certificate (PDF)](https://github.com/haricbravlin7/Haric/blob/main/Programming%20In%20Java.pdf) |
 
 </div>
 ### Cisco
