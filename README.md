@@ -307,11 +307,21 @@ Developing practical engineering skills through academic learning, AI-focused pr
 <div align="center">
 
 <a href="https://nptel.ac.in/">
-  <img src="https://img.shields.io/badge/NPTEL-Certification%20Programs-312E81?style=for-the-badge&logo=bookstack&logoColor=white" alt="NPTEL certification programs"/>
+  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-312E81?style=for-the-badge&logo=java&logoColor=white" alt="NPTEL Programming in Java"/>
 </a>
 
-</div>
+**Programming in Java — Elite Certification**
 
+| Detail | Result |
+|:---|:---|
+| **Provider** | NPTEL · IIT Kharagpur |
+| **Session** | July–October 2025 |
+| **Course Duration** | 12 weeks |
+| **Consolidated Score** | 81% |
+| **Online Assignments** | 24.47/25 |
+| **Proctored Exam** | 56.25/75 |
+
+</div>
 ### Cisco
 
 <div align="center">
