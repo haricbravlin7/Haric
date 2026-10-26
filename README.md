@@ -57,6 +57,7 @@ Through projects such as [SugarRush](https://github.com/Andy02062006/Sugarush) a
 - **Full Stack Development:** Building application experiences with modern frontend frameworks, backend services, REST APIs, and databases.
 - **Product Engineering:** Connecting user needs, feature planning, technical architecture, and intelligent functionality into cohesive products.
 - **Continuous Learning:** Developing practical skills through experimentation, collaborative projects, and iterative engineering.
+- 
 
 ### Open To
 
@@ -65,6 +66,13 @@ Through projects such as [SugarRush](https://github.com/Andy02062006/Sugarush) a
 - Full Stack Development Opportunities
 - Open Source Contributions
 - Hackathons and Technical Collaborations
+
+ ### Additional Academic Coursework
+
+**IIT Madras — BS in Data Science and Applications**
+- Completed the Foundation level coursework.
+- Started the Diploma level and discontinued before completion.
+- Studied foundational concepts in programming, mathematics, statistics, and data science.
 
 ---
 
