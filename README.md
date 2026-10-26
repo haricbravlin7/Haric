@@ -306,8 +306,8 @@ Developing practical engineering skills through academic learning, AI-focused pr
 
 <div align="center">
 
-<a href="https://nptel.ac.in/">
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-312E81?style=for-the-badge&logo=java&logoColor=white" alt="NPTEL Programming in Java"/>
+<a href="https://github.com/haricbravlin7/Haric/blob/main/certificates/Programming-In-Java-NPTEL.pdf">
+  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-312E81?style=for-the-badge&logo=java&logoColor=white" alt="View NPTEL Programming in Java certificate"/>
 </a>
 
 **Programming in Java — Elite Certification**
@@ -316,10 +316,9 @@ Developing practical engineering skills through academic learning, AI-focused pr
 |:---|:---|
 | **Provider** | NPTEL · IIT Kharagpur |
 | **Session** | July–October 2025 |
-| **Course Duration** | 12 weeks |
-| **Consolidated Score** | 81% |
-| **Online Assignments** | 24.47/25 |
-| **Proctored Exam** | 56.25/75 |
+| **Duration** | 12 weeks |
+| **Score** | 81% |
+| **Certificate** | [View Certificate (PDF)](https://github.com/haricbravlin7/Haric/blob/main/certificates/Programming-In-Java-NPTEL.pdf) |
 
 </div>
 ### Cisco
