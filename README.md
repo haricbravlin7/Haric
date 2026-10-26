@@ -1,18 +1,19 @@
+
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:312E81,65:6D28D9,100:0D1117&height=220&section=header&text=HARIC&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20FULL%20STACK&descAlignY=58&descSize=16&animation=fadeIn" alt="Haric profile banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071521,30:123B50,65:0D9488,100:071521&height=220&section=header&text=HARIC&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20FULL%20STACK&descAlignY=58&descSize=16&animation=fadeIn" alt="Haric profile banner"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Building+AI-Powered+Applications;Exploring+Reinforcement+Learning+%26+LLMs;Engineering+Scalable+Full+Stack+Solutions;Learning.+Building.+Iterating.+Shipping." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=22D3C5&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Building+AI-Powered+Applications;Exploring+Reinforcement+Learning+%26+LLMs;Engineering+Scalable+Full+Stack+Solutions;Learning.+Building.+Iterating.+Shipping." alt="Animated introduction"/>
 
 <br/>
 
 <a href="https://www.loyolaicam.ac.in/">
-  <img src="https://img.shields.io/badge/B.E.-Computer%20Science-312E81?style=flat-square&logo=bookstack&logoColor=white" alt="Computer Science Engineering"/>
+  <img src="https://img.shields.io/badge/B.E.-Computer%20Science-123B50?style=flat-square&logo=bookstack&logoColor=white" alt="Computer Science Engineering"/>
 </a>
 <a href="https://www.loyolaicam.ac.in/">
-  <img src="https://img.shields.io/badge/LOYOLA--ICAM-3rd%20Year-4338CA?style=flat-square&logo=academia&logoColor=white" alt="Academic institution"/>
+  <img src="https://img.shields.io/badge/LOYOLA--ICAM-3rd%20Year-2563EB?style=flat-square&logo=academia&logoColor=white" alt="Academic institution"/>
 </a>
 <a href="https://www.google.com/maps/place/India/">
   <img src="https://img.shields.io/badge/LOCATION-India-1E40AF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -21,23 +22,23 @@
 <br/><br/>
 
 <a href="https://github.com/Haric">
-  <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-22D3C5?style=for-the-badge&logo=github&logoColor=071521" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/haric-bravlin-15589232a/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:haricbravlin7@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Haric&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Haric&style=flat-square&color=0D9488&label=PROFILE+VIEWS" alt="Profile views"/>
 <a href="https://github.com/Haric?tab=followers">
-  <img src="https://img.shields.io/github/followers/Haric?style=flat-square&color=4338CA&label=FOLLOWERS&logo=github" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/Haric?style=flat-square&color=2563EB&label=FOLLOWERS&logo=github" alt="GitHub followers"/>
 </a>
 <a href="https://github.com/Haric?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Haric?style=flat-square&color=7C3AED&label=TOTAL+STARS&logo=github" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/stars/Haric?style=flat-square&color=22D3C5&label=TOTAL+STARS&logo=github" alt="GitHub stars"/>
 </a>
 
 </div>
@@ -57,7 +58,6 @@ Through projects such as [SugarRush](https://github.com/Andy02062006/Sugarush) a
 - **Full Stack Development:** Building application experiences with modern frontend frameworks, backend services, REST APIs, and databases.
 - **Product Engineering:** Connecting user needs, feature planning, technical architecture, and intelligent functionality into cohesive products.
 - **Continuous Learning:** Developing practical skills through experimentation, collaborative projects, and iterative engineering.
-- 
 
 ### Open To
 
@@ -67,9 +67,10 @@ Through projects such as [SugarRush](https://github.com/Andy02062006/Sugarush) a
 - Open Source Contributions
 - Hackathons and Technical Collaborations
 
- ### Additional Academic Coursework
+### Additional Academic Coursework
 
 **IIT Madras — BS in Data Science and Applications**
+
 - Completed the Foundation level coursework.
 - Started the Diploma level and discontinued before completion.
 - Studied foundational concepts in programming, mathematics, statistics, and data science.
@@ -110,11 +111,11 @@ Through projects such as [SugarRush](https://github.com/Andy02062006/Sugarush) a
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-18181B?style=flat-square&logo=google&logoColor=A78BFA" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLM%20INTEGRATION-18181B?style=flat-square&logo=openai&logoColor=A78BFA" alt="LLM integration"/>
-<img src="https://img.shields.io/badge/REINFORCEMENT%20LEARNING-18181B?style=flat-square&logo=pytorch&logoColor=A78BFA" alt="Reinforcement learning"/>
-<img src="https://img.shields.io/badge/GEMINI%20API-18181B?style=flat-square&logo=googlegemini&logoColor=A78BFA" alt="Gemini API"/>
-<img src="https://img.shields.io/badge/WEATHER%20APIs-18181B?style=flat-square&logo=cloudflare&logoColor=A78BFA" alt="Weather APIs"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-18181B?style=flat-square&logo=google&logoColor=22D3C5" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLM%20INTEGRATION-18181B?style=flat-square&logo=openai&logoColor=22D3C5" alt="LLM integration"/>
+<img src="https://img.shields.io/badge/REINFORCEMENT%20LEARNING-18181B?style=flat-square&logo=pytorch&logoColor=22D3C5" alt="Reinforcement learning"/>
+<img src="https://img.shields.io/badge/GEMINI%20API-18181B?style=flat-square&logo=googlegemini&logoColor=22D3C5" alt="Gemini API"/>
+<img src="https://img.shields.io/badge/WEATHER%20APIs-18181B?style=flat-square&logo=cloudflare&logoColor=22D3C5" alt="Weather APIs"/>
 
 </div>
 
@@ -130,11 +131,11 @@ Through projects such as [SugarRush](https://github.com/Andy02062006/Sugarush) a
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REST%20API%20DESIGN-18181B?style=flat-square&logo=fastapi&logoColor=A78BFA" alt="REST API design"/>
-<img src="https://img.shields.io/badge/DATABASE%20MODELING-18181B?style=flat-square&logo=mongodb&logoColor=A78BFA" alt="Database modeling"/>
-<img src="https://img.shields.io/badge/AI%20INTEGRATION-18181B?style=flat-square&logo=probot&logoColor=A78BFA" alt="AI integration"/>
-<img src="https://img.shields.io/badge/VERSION%20CONTROL-18181B?style=flat-square&logo=git&logoColor=A78BFA" alt="Version control"/>
-<img src="https://img.shields.io/badge/PROTOTYPING-18181B?style=flat-square&logo=figma&logoColor=A78BFA" alt="Prototyping"/>
+<img src="https://img.shields.io/badge/REST%20API%20DESIGN-18181B?style=flat-square&logo=fastapi&logoColor=22D3C5" alt="REST API design"/>
+<img src="https://img.shields.io/badge/DATABASE%20MODELING-18181B?style=flat-square&logo=mongodb&logoColor=22D3C5" alt="Database modeling"/>
+<img src="https://img.shields.io/badge/AI%20INTEGRATION-18181B?style=flat-square&logo=probot&logoColor=22D3C5" alt="AI integration"/>
+<img src="https://img.shields.io/badge/VERSION%20CONTROL-18181B?style=flat-square&logo=git&logoColor=22D3C5" alt="Version control"/>
+<img src="https://img.shields.io/badge/PROTOTYPING-18181B?style=flat-square&logo=figma&logoColor=22D3C5" alt="Prototyping"/>
 
 </div>
 
@@ -315,7 +316,7 @@ Developing practical engineering skills through academic learning, AI-focused pr
 <div align="center">
 
 <a href="https://github.com/haricbravlin7/Haric/blob/main/Programming%20In%20Java.pdf">
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-312E81?style=for-the-badge&logo=java&logoColor=white" alt="View NPTEL Programming in Java certificate"/>
+  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-123B50?style=for-the-badge&logo=java&logoColor=white" alt="View NPTEL Programming in Java certificate"/>
 </a>
 
 **Programming in Java — Elite Certification**
@@ -329,6 +330,7 @@ Developing practical engineering skills through academic learning, AI-focused pr
 | **Certificate** | [View Certificate (PDF)](https://github.com/haricbravlin7/Haric/blob/main/Programming%20In%20Java.pdf) |
 
 </div>
+
 ### Cisco
 
 <div align="center">
@@ -370,22 +372,19 @@ Developing practical engineering skills through academic learning, AI-focused pr
 <div align="center">
 
 <a href="https://github.com/Haric">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Haric&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Haric&show_icons=true&hide_border=true&bg_color=071521&title_color=22D3C5&icon_color=2563EB&text_color=E2E8F0&ring_color=22D3C5&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/Haric">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Haric&theme=transparent&hide_border=true&background=0D1117&stroke=312E81&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Haric&theme=transparent&hide_border=true&background=071521&stroke=123B50&ring=22D3C5&fire=2563EB&currStreakLabel=22D3C5&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/Haric">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haric&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haric&layout=compact&langs_count=8&hide_border=true&bg_color=071521&title_color=22D3C5&text_color=E2E8F0" alt="Most used programming languages"/>
 </a>
 
 </div>
-
----
-
 
 ---
 
@@ -394,14 +393,12 @@ Developing practical engineering skills through academic learning, AI-focused pr
 <div align="center">
 
 <a href="https://github.com/Haric">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haric&bg_color=0D1117&color=A78BFA&line=7C3AED&point=818CF8&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haric&bg_color=071521&color=22D3C5&line=0D9488&point=2563EB&area=true&area_color=123B50&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
 </a>
 
 </div>
 
 ---
-
-
 
 ## 11. Current Focus
 
@@ -440,3 +437,48 @@ open_to:
   - Full Stack Development
   - Open Source Contributions
   - Hackathons and Technical Collaborations
+```
+
+---
+
+## 12. Connect
+
+<div align="center">
+
+**Let's connect, collaborate, and build meaningful technology.**
+
+<a href="mailto:haricbravlin7@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-Professional%20Enquiries-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Haric"/>
+</a>
+
+<a href="https://www.linkedin.com/in/haric-bravlin-15589232a/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Professional%20Network-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile"/>
+</a>
+
+<a href="https://github.com/Haric">
+  <img src="https://img.shields.io/badge/GITHUB-Code%20%26%20Projects-18181B?style=for-the-badge&logo=github&logoColor=22D3C5" alt="GitHub profile"/>
+</a>
+
+<br/><br/>
+
+*Open to internships, AI/ML collaboration, full-stack projects, open source, and hackathons.*
+
+</div>
+
+---
+
+## 13. Footer
+
+<div align="center">
+
+**"Build with purpose. Engineer with precision. Innovate with intelligence."**
+
+<br/>
+
+<a href="https://capsule-render.vercel.app/">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071521,30:123B50,65:0D9488,100:071521&height=120&section=footer" alt="Midnight Blue and Teal footer banner"/>
+</a>
+
+<sub>Designed with purpose · Built with curiosity · Engineered for impact</sub>
+
+</div>
